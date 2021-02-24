@@ -28,7 +28,7 @@ html {
 }
 
 body {
-     color: #666666;
+     color: white;
      font-size: 14px;
      font-family: poppins;
      line-height: 1.80857;
@@ -333,7 +333,7 @@ a.readmore_bt {
 .loader_bg {
      position: fixed;
      z-index: 9999999;
-     background: #fff;
+     background: #a0b4aa;
      width: 100%;
      height: 100%;
 }
@@ -1587,7 +1587,7 @@ input[type="radio"] .styled:checked+label::after {
      font-size: 46px;
      line-height: 55px;
      font-weight: bold;
-     color: #308409;
+     color: rgb(45, 65, 55);
 }
 .banner-main .carousel-caption p {
      color: #0c0404;
@@ -1598,20 +1598,20 @@ input[type="radio"] .styled:checked+label::after {
      color: #0c0404;
 }
 .btn-primary {
-     background: #000;
+     background: rgb(15, 35, 25);
      border: indianred;
      max-width: 170px;
      width: 100%;
      margin-right: 10px;
 }
 .btn-primary:hover {
-     background: #308409;
+     background: rgb(45, 65, 55);
 }
 .img-box figure {
      margin: 0;
 }
 .img-box figure img {
-     box-shadow: #308409 0px 0px 0px 0px;
+     box-shadow: indianred 3px 3px 1px 1px;
 }
 .plants {
      padding: 90px 0px;
@@ -1624,7 +1624,7 @@ input[type="radio"] .styled:checked+label::after {
      padding: 0px 0px 36px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #050303;
+     color: rgb(15, 35, 25);
      line-height: 50px;
      position: relative;
      margin-bottom: 20px;
@@ -1638,17 +1638,17 @@ input[type="radio"] .styled:checked+label::after {
      margin: 10px auto;
      width: 50%;
      height: 6px;
-     background: #308409;
+     background: indianred;
 }
 .titlepage span {
-     color: #141012;
+     color: rgb(45, 65, 55);
      font-size: 17px;
      line-height: 32px;
      display: block;
 }
 .plants .plants-box {
      background-color: #fff;
-     box-shadow: #dcd8d8 0px 1px 3px 0px;
+     box-shadow: indianred 0px 1px 3px 0px;
      margin-bottom: 30px;
 }
 .plants .plants-box figure {
@@ -1682,12 +1682,12 @@ input[type="radio"] .styled:checked+label::after {
 .about .about-box h2 {
      font-size: 50px;
      font-weight: bold;
-     color: #fff;
+     color: rgb(45, 65, 55);
      line-height: 50px;
      padding-bottom: 35px;
 }
 .about .about-box .white-bg {
-     background: #fff;
+     background: #ffffff;
      width: 100%;
      text-align: center;
      padding: 20px 0px 15px 0px;
@@ -1705,7 +1705,7 @@ input[type="radio"] .styled:checked+label::after {
      padding: 0px 0px 36px 0px;
      font-size: 50px;
      font-weight: bold;
-     color: #fff;
+     color: rgb(45, 65, 55);
      line-height: 50px;
      position: relative;
      margin-bottom: 20px;
@@ -1717,13 +1717,13 @@ input[type="radio"] .styled:checked+label::after {
      top: 70%;
      margin: 10px auto;
      height: 6px;
-     background: #fff;
+     background: white;
      width: 45%;
      right: -295px;
 }
 .about-box .titlepage span {
-     color: #fff;
-     font-size: 17px;
+     color: rgb(15, 35, 25);
+     font-size: 20px;
      line-height: 32px;
      display: block;
 }
